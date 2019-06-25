@@ -7,7 +7,7 @@ export const environment = {
   production: false,
   firebase: {
     apiKey: "AIzaSyCHRLOibxIQtzGaZ7Pi4SFaxFyOqp0H7oU",
-    authDomain: "localhost",
+    authDomain: "sesh-music.herokuapp.com/",
     databaseURL: "https://tnteventsapp.firebaseio.com/",
     projectId: "TNTeventsapp",
     storageBucket: "tnteventsapp.appspot.com",
